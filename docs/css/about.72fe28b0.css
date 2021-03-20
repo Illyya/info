@@ -1,0 +1,1 @@
+.sidebar{padding:10px;font-size:1.2rem;color:#fff;border-radius:10px;background-color:#bab9fc}.sidebar__li:not(:last-of-type){margin-bottom:10px}.sidebar__link{transition:.2s ease-out}.sidebar__link:hover{color:#09f}.router-link-exact-active{color:#0026ff}
