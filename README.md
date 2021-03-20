@@ -1,3 +1,4 @@
+https://illyya.github.io/info/
 # info
 
 ## Project setup
